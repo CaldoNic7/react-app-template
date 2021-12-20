@@ -1,0 +1,3 @@
+When I created this template I was having an issue with the create-react-app command. After trying a bunch of different suggested fixes with no success I said screw it and decided to make my own template.
+
+I followed [THIS](https://dev.to/nikhilkumaran/don-t-use-create-react-app-how-you-can-set-up-your-own-reactjs-boilerplate-43l0) tutorial by [@Nikhil-Kumaran](https://github.com/Nikhil-Kumaran) and then adjusted it for my own use based on the patterns I learned in my bootcamp and from other online courses. (highly suggest checking out https://codewithmosh.com for some really great courses)
